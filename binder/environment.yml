@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+dependencies:
+- python
+- flux-core
+- pyiron_base=0.10.8
